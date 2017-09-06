@@ -1,0 +1,126 @@
+Locations of "Switch Language"
+
+src/nls/root/strings-app.js
+line 28
+
+src/nls/root/strings.js	
+line 617
+line 635
+
+src/nls/README.md
+line 11
+
+test/perf/OpenFile-perf-files/brackets-contacts.js
+line 8701
+line 8702
+line 8774
+line 46955
+line 46956
+line 47028
+
+Locations of "CMD_SWITCH_LANGUAGE"
+
+src/extensions/default/DebugComands/main.js
+line 775
+
+src/nls/bg/strings.js	-	Bulgarian
+line 599
+
+src/nls/cs/strings.js	-	Czech 
+line 598
+
+src/nls/da/strings.js	-	Danish
+line 514
+
+src/nls/de/strings.js	-	German
+line 611
+
+src/nls/el/strings.js	-	Greek
+line 446
+
+src/nls/es/strings.js	-	Spanish
+line 586
+
+src/nls/fa-ir/strings.js	-	Farsi
+line 576
+
+src/nls/fi/strings.js	-	Finnish
+line 616
+
+src/nls/fr/strings.js	-	French
+line 617
+
+src/nls/gl/strings.js	-	Galician
+line 561
+
+src/nls/hr/strings.js	-	Croatian
+line 520
+
+src/nls/hu/strings.js	-	Hungarian
+line 358
+
+src/nls/id/strings.js	-	Indonesian
+line 574
+
+src/nls/it/strings.js	-	Italian
+line 598
+
+src/nls/ja/strings.js	-	Japanese
+line 617
+
+src/nls/ko/strings.js	-	Korean
+line 598
+
+src/nls/lv/strings.js	-	Latvian
+line 599
+
+src/nls/nb/strings.js	-	Norwegian 
+line 491
+
+src/nls/nl/strings.js	-	Dutch
+line 576
+
+src/nls/pl/strings.js	-	Polish
+line 611
+
+src/nls/pt-br/strings.js	-	Portuguese Brazil
+line 593
+
+src/nls/pt-pt/strings.js	-	Portuguese Portugal
+line 241
+
+src/nls/ro/strings.js	-	Romanian
+line 573
+
+src/nls/root/strings.js
+line 617
+
+src/nls/ru/strings.js	-	Russian
+line 511
+
+src/nls/sk/strings.js	-	Slovak
+line 378
+
+src/nls/sr/strings.js	-	Serbian 
+line 573
+
+src/nls/sv/strings.js	-	Swedish
+line 598
+
+src/nls/tr/strings.js	-	Turkish
+line 281
+
+src/nls/uk/strings.js	-	Ukrainian
+line 573
+
+src/nls/zh-cn/strings.js	-	Chinese China
+line 600
+
+src/nls/zh-tw/strings.js	-	Chinese Taiwan
+line 591
+
+test/perf/OpenFile-perf-files/brackets-concat.js
+line 8773
+line 37050
+line 47028
+line 75304
