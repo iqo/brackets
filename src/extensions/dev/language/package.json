@@ -1,0 +1,18 @@
+{
+    "name": "niklas.language",
+    "title": "improved language",
+    "description": "moved the switch language option from debug to help",
+    "homepage": "https://github.com/iqo",
+    "version": "1.0.0",
+    "author": "niklas brynolf <niklas.brynolf@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": [ "en", "fr"],
+    "package-i18n": {
+        "fr": {
+            "description": "Plus de détails utiles pour laisser quelqu'un savoir ce que votre poste est tout au sujet."
+        }
+    }
+}
